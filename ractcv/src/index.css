@@ -1,0 +1,10 @@
+.App {  
+    font-family: 'Noto Sans Mono', monospace;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    height: 356vh;
+    flex-wrap: nowrap;
+        
+    
+}

@@ -1,0 +1,27 @@
+.container-barra {
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+    margin: 10px;
+    
+    flex-direction: row;
+    padding-left: 30px;
+    float: right;
+    
+}
+.container-barra a {
+    text-decoration: none;
+    padding: 10px;
+    float: right;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-barra a:hover {
+    color: brown;
+}
+.heart {
+    font-size: 1.3rem;
+    padding: 0px;
+    margin: 0px;
+}

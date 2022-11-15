@@ -1,0 +1,66 @@
+.container-contact {
+    display: flex;
+    flex-direction: column;
+   
+    
+    padding: 15px;
+    padding-bottom: 55px;
+    padding-top: 55px;
+    margin: auto;
+    margin-bottom: 350px;
+    border-radius: 5px;
+    height: 36vh;
+    box-shadow: 1px 2px 10px 4px rgba(218, 56, 56, 0.498);
+    
+}
+
+
+h1 {
+    padding: 5px;
+    margin: 0px;
+    position: relative;
+    font-weight: bold;
+
+}
+
+.container-contact h4 {
+    padding: 10px;
+    margin: auto;
+    
+}
+.btnGit {
+    background-color: rgb(0, 0, 0);
+    width: auto;
+    border-radius: 10px;
+    padding: 0px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0px;
+    margin-left: 0px;
+   
+}
+.btnGit:hover {
+
+    color: black;
+    background-color: rgb(196, 53, 53);
+   
+    
+}
+
+.btnLink {
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: auto;
+    padding: 0px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 5px;
+    margin: 0px;
+}
+.btnLink:hover {
+    color: black;
+    background-color: rgb(196, 53, 53);
+}

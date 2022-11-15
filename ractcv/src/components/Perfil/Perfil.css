@@ -1,0 +1,49 @@
+.container-card {
+display: flex;
+flex-direction: row;
+text-align: right;
+margin-right: 0px;
+
+
+
+}
+.img {
+    text-align: center;
+    align-items: center;
+    padding: 100px;
+
+    margin: 10px;
+    width: 270px;
+    height: auto;
+    /* background-color: rgb(246, 246, 246); */
+    border-radius: 60%;
+    background-image: url('../../img/patoAvatar.png');
+    background-color: black;
+    box-shadow: 2px 1px 3px 4px rgba(151, 28, 28, 0.831);
+    
+    
+}
+
+h4 {
+    text-align: left;
+    padding-left: 30px;
+    color: rgb(255, 255, 255);
+}
+.icon {
+    font-size: 1.3rem;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    margin-right: 370px;
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.icon:hover {
+    color: rgb(246, 105, 45);
+}
+
+
+
+

@@ -1,0 +1,88 @@
+.tabla {
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 0px;
+    margin-bottom: 30px;
+    height: 100vh;
+}
+
+.tabla th {
+
+    color: white;
+
+}
+
+.tabla button {
+    
+    
+    height: 30px;
+    width: 60px;
+    border-radius: 10px;
+    border: none;
+    background-color:black;
+    color: white;
+    transition: .3s ease all;
+    cursor: pointer;
+
+    
+
+
+}
+.tabla button:hover {
+    background-color:rgb(243, 44, 34) ;
+}
+.imagen {
+
+    width: 470px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    background-image: url("./perro.png") ;
+    
+    
+   }
+
+.close {
+   
+    margin: 0px;
+    width: 100px;
+    font-size: 1rem;
+    height: 40px;
+    padding: 2px;
+   }
+
+
+.launch {
+    
+    font-size: 1.2rem;
+    text-align: center;
+    padding: 0px;
+    margin: auto;
+}
+
+.imgContainer { 
+ 
+ height: 50vh;
+ display: flex;
+ padding: 10px;
+ flex-direction: column;
+ 
+
+}
+
+.modal {
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+    
+}
+
+
